@@ -1,4 +1,4 @@
-#### Predicting Product Variant Blank and Average Ratings Using ML ###
+# Predicting Product Variant Blank and Average Ratings Using ML #
 
 # The Visibility Challenge #
 
